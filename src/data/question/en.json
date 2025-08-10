@@ -1,0 +1,7 @@
+[
+  {
+    "id":1,
+    "question":"What is React?",
+    "answer": "React is a JavaScript library for building user interfaces. It uses a component-based architecture, where each component manages its own state and can be reused across the application. React updates the UI efficiently using a Virtual DOM, re-rendering only the parts that change. Its declarative approach makes it easier to design and maintain interactive, dynamic web applications."
+  }
+]
